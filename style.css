@@ -1,0 +1,73 @@
+body{color: #be0c1b;
+font-family:Georgia, 'Times New Roman', Times, serif;
+font-size: 18px;
+font-weight: 700;}
+.spacing{position: relative;
+top: 100px;
+font-size: 30px;}
+
+header{display: flex;}
+#logo img{width: 100px;
+height: 100px;}
+#search svg{height: 20px;
+fill: #be0c1b;
+position: relative;
+top: 40%;
+margin-left: 200px;}
+#search input{height: 20px;
+color: #be0c1b;
+position: relative;
+top: 37%;}
+#inf ul{list-style: none;
+display: flex;
+align-items: center;
+padding: 20px;
+display: flex;
+flex-direction: row;
+justify-content: space-around;}
+#inf a{text-decoration: none;
+color: #be0c1b;}
+#inf{width: 50%;}
+
+.imgs{position: relative;
+top: 40px;
+display: flex;
+text-align: center;
+justify-content: space-around;}
+.imgs img{height: 243px;
+text-align: center;}
+p{font-weight: 300;}
+
+#logo2 img{
+height: 350px;
+position: relative;}
+#lyrics2{text-align: center;}
+#lyrics22{margin-top: 30px;}
+
+#frango{font-size: 25px;}
+
+.lyrics33{margin-top: 17px;
+margin-left: 5px;
+align-items: center;}
+.lyrics3{display: flex;
+justify-content: center;
+margin-top: 180px;}
+#contacts div{display: flex;}
+#contacts svg{height: 30px;
+margin: 10px;}
+#contacts{justify-content: center;
+margin-top: 50px;
+align-items: center;
+margin-left: 200px;}
+.lyrics333{margin-top: 15px;}
+
+#contacts input{margin-left: 30px;}
+button{margin-left: 47%;
+margin-top: 80px;
+background-color: #be0c1b;
+height: 40px;
+width: 130px;
+border-radius: 40px;}
+
+.lyrics5{margin-top: 12px;
+font-size: 20px;}
